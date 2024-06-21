@@ -1,0 +1,325 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+
+}
+.img1{
+    margin-top: 130px;
+   margin-left: 320px;
+}
+ body .topbar ul{
+    font-weight: bold;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.topbar :hover{
+    cursor: pointer;
+
+}
+body #top{
+    display:block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    text-align: center;
+    line-height: 40px;
+    
+}
+#top1{
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#top1 :hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+.img2{
+    margin-left: 262px;
+}
+.img2 :hover{
+    cursor: zoom-in;
+}
+#PARA1 h3{
+    text-align:left;
+    padding-left: 20%;
+    line-height: 25px;
+    
+}
+#PARA1 p{
+    text-align:left;
+    padding-left: 20%;
+    font-size: 20px;
+    line-height: 35px;
+    opacity: 0.8 ;
+
+    
+}
+#PARA1 p span {
+    font-weight: bold;
+}
+#PARA1 h2{
+    text-align: left;
+    padding-left: 20%;
+
+}
+.img3{
+    margin-left: 262px;
+}
+.img3 :hover{
+    cursor: zoom-in;
+}
+.LISTTAG UL{
+   padding-left: 25%;
+   line-height: 1.5;
+   list-style-type: square;
+   font-size: larger;
+   opacity: 0.9;
+
+}
+.img4{
+    margin-left: 262px;
+}
+.img4 :hover{
+    cursor:pointer;
+}
+.double img{ 
+    margin-left: 250px;
+    padding-top: 5%;
+
+}
+.double p {
+    opacity: 0.9;
+
+}
+h1{
+    text-align: left;
+    padding-left: 20%;
+}
+.img5{
+    margin-left: 262px;
+}
+.img5 :hover{
+    cursor: pointer;
+}
+.img6 img{
+    margin-left: 250px;
+    padding-top: 5%;
+}
+.img6 p{
+    opacity: 0.9;
+    margin-left:50px;
+
+}
+.img7 img{
+    margin-left: 262px;
+
+}
+.img7 img :hover{
+    cursor: pointer;
+
+}
+span a{
+    color: brown;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.ul1{
+    padding-left: 25%;
+    line-height: 2;
+    list-style-type: square;
+    font-size: larger;
+    opacity: 0.9;
+}
+.img8 img{
+    margin-left: 262px;
+
+}
+.img8 img :hover{
+    cursor: pointer;
+}
+.center{
+    text-align: center;
+    padding: 30px;
+    max-width: 700px;
+    margin:0 auto;
+         
+}
+.center a{
+    color: brown;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 19px;
+
+}
+.para2 {
+    text-align: left;
+    padding: 20px;
+    max-width: 850px;
+  
+}
+.para3 {
+    text-align: left;
+    padding: 20px;
+    max-width: 850px;
+  
+}
+.img9 img{
+    margin-left: 262px;
+
+}
+.img9 img :hover{
+    cursor: pointer;
+}
+.imgcenter{
+   margin-left: 260px;
+}
+.para4 {
+    text-align: left;
+    padding: 20px;
+    max-width: 850px;
+  
+}
+.para5 {
+    text-align: left;
+    padding: 20px;
+    max-width: 850px;
+
+}
+.img10 img{
+    margin-left: 262px;
+}
+a{
+    color: brown;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.img10 a{
+   margin-left: 270px;
+}
+.para6 {
+    text-align: left;
+    padding: 20px;
+    max-width: 850px;
+}
+#web {
+    margin-left: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+}
+/* .backimg1 h4{
+    background-image: url(https://www.intrepidtravel.com/adventures/wp-content/uploads/ipf/HHSL.jpg);
+    padding: 25px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 20%;
+    margin-left: 100px;
+    margin-top: 100px;
+   
+    
+   
+   
+}
+.backimg1 div{
+    border:2px solid;
+    width: 250px;
+    height: 35px;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    
+    
+}
+.backimg1 div button{
+    width: 100px;
+    height: 30px;
+    background-color: transparent;
+} */
+
+.mainimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carrat img {
+    margin-left: 270px;
+ }
+ .para7 {
+     text-align: left;
+     padding: 20px;
+     max-width: 850px;
+     line-height: 1.5;
+     font-size: 20px;
+ }
+ .carrat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25%;
+ }
+.para7 A{
+    color: black;
+    text-decoration: none; 
+}
+.para7 A :hover{
+    cursor: pointer;
+    text-decoration: underline ;
+   
+
+}
+h5 {
+    font-family: Poppins;
+    margin: 100px auto;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    max-width: 73%;
+    position: relative;
+  }
+  h5:before {
+    content: "";
+    display: block;
+    width: 130px;
+    height: 1px;
+    background: gray;
+    left: 20%;
+    top: 50%;
+    position: absolute;
+  }
+  h5:after {
+    content: "";
+    display: block;
+    width: 130px;
+    height: 1px;
+    background: gray;
+    right: 20%;
+    top: 50%;
+    position: absolute;
+  }
+  .carcarousel-inner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .back{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+
+
+
